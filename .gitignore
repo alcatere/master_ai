@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Extra directories to ignore
+inteligencia-artificial/
+.DS_Store
