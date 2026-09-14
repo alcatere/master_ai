@@ -220,3 +220,8 @@ __marimo__/
 # Extra directories to ignore
 inteligencia-artificial/
 .DS_Store
+
+introduccion_inteligencia_artificial/vision_computacional/datasets/
+introduccion_inteligencia_artificial/vision_computacional/train/
+introduccion_inteligencia_artificial/vision_computacional/yolov8n.pt
+introduccion_inteligencia_artificial/vision_computacional/runs/
